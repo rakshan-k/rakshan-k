@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rakshan
 - 👀 I’m interested in cloud security 
 - 🌱 I’m currently learning AWS cloud practioner and RHCE courses
-- 📫 you can reach me through
+- 📫 you can reach me through rakshan2003.py@gmail.com
 
 <!---
 rakshan-k/rakshan-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
