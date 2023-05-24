@@ -1,9 +1,5 @@
-- 👋 Hi, I’m rakshan
-- 👀 I’m interested in cloud security 
-- 🌱 I’m currently learning AWS cloud practioner and RHCE courses
-- 📫 you can reach me through rakshan2003.root@gmail.com
+[![](https://visitcount.itsvg.in/api?id=rakshan-k&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-<!---
-rakshan-k/rakshan-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rakshan-k&label=Profile%20Views&pretty=false" />
+</a>
