@@ -24,3 +24,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rakshan-k&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<p align='center'>
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=hxu296&show_icons=true&count_private=true" />
+</picture>
+
+<picture>
+<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
