@@ -17,7 +17,7 @@ https://visitcount.itsvg.in/api?id=rakshan-k&label=Profile%20Views&pretty=false)
 
 ## Profiles 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Rakshan.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/r4k5h4n.png" alt="TryHackMe">
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
