@@ -23,6 +23,7 @@
 ## 🧮 Statistics
 
 ![Rakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshan-k&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshan-k&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
