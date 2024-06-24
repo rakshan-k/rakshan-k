@@ -33,15 +33,11 @@
 
 ## 📫 Connect with Me 
 
-[<img align="left" alt="_sh3bu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="_sh3bu | Twitter" width="22px" src="https://commons.wikimedia.org/wiki/File:Logo_of_Twitter.svg"/>][twitter]
 [<img align="left" alt="sh3bu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 <!-- Reference Links -->
 
 [twitter]:  https://x.com/FacelessGod_11
 [linkedin]: [https://linkedin.com/in/shebu](https://www.linkedin.com/in/rakshan-k-87089a25a/)
-
-<picture>
-<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
-</picture>
   
