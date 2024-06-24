@@ -34,7 +34,7 @@
 ## 📫 Connect with Me 
 
 [<img align="left" alt="_rakshan | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"/>][twitter]
-[<img align="left" alt="rakshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="rakshan | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>][linkedin]
 
 <!-- Reference Links -->
 
