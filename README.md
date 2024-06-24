@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋🏻, I'm Rakshan </h1>
 <h3 align="center"> A n00b trying to upskill everyday </h3>
-<p align="center"> <img src="(https://visitcount.itsvg.in/api?id=rakshan-k&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)" alt="rakshan" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=rakshan-k&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in" alt="profile views" /> </p>
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
